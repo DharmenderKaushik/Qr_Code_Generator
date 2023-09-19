@@ -1,11 +1,21 @@
-# Qr_Code_Generator
 
-In this Project we will be creating a QR Code Generator using Python
+# QR Code Generator Using Python
 
-I am using <b>qrcode</b> module in this project
+Creating a QR Code Generator for my Github profile using Python.
 
-Installation :
-<br>
-Install qrcode  module 
 
-<b>pip install qrcode</b>
+
+
+## What is Qr code ?
+
+A Quick Response code is a two-dimensional pictographic code used for its fast readability and comparatively large storage capacity. The code consists of black modules arranged in a square pattern on a white background. The information encoded can be made up of any kind of data (e.g., binary, alphanumeric, or Kanji symbols).
+
+
+## Installation
+
+I am using qrcode module in this project
+
+```bash
+  pip install qrcode
+```
+    
