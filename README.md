@@ -40,4 +40,7 @@ img.save("qr_code.png")
 ## Screenshots
 Output will come as a Qr code
 ![App Screenshot](https://github.com/DharmenderKaushik/Qr_Code_Generator/blob/main/qr_code.png)
+
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/DharmenderKaushik)
     
